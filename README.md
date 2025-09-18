@@ -222,25 +222,6 @@ lsof -ti:3000 | xargs kill -9
 - Third-party security APIs for threat intelligence
 - Database persistence for all application data
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how to get started:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
-
 ### Development Guidelines
 
 - Follow React best practices and hooks patterns
@@ -253,34 +234,12 @@ We welcome contributions! Here's how to get started:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- **Development Team**: VipSec Development Team
-- **UI/UX Design**: Modern cybersecurity-focused interface
-- **Security Consultation**: Industry best practices implementation
-
-## 📞 Support & Contact
-
-- **Email**: support@vipsec.com
-- **Documentation**: This README and inline code comments
-- **Issues**: Please use GitHub Issues for bug reports and feature requests
-- **Discussions**: Use GitHub Discussions for general questions
-
 ## 🙏 Acknowledgments
 
 - [React](https://reactjs.org/) - The web framework used
 - [Tailwind CSS](https://tailwindcss.com/) - For utility-first CSS styling
 - [Lucide React](https://lucide.dev/) - For beautiful, consistent icons
 - [Create React App](https://create-react-app.dev/) - For quick project bootstrapping
-
-## 📈 Project Status
-
-- ✅ **Core Features**: Complete and functional
-- ✅ **Authentication**: Role-based access implemented
-- ✅ **UI/UX**: Professional, responsive design
-- 🚧 **Backend Integration**: In development
-- 🚧 **Slack API**: Integration planned
-- 🚧 **Advanced Features**: Alert system and analytics
 
 ---
 
